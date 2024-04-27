@@ -1,0 +1,20 @@
+1. Implementation of Stop and Wait Protocol and Sliding Window Protocol.
+2. Study of Socket Programming and Client – Server model
+3. Write a code simulating ARP /RARP protocols.
+4. Write a code simulating PING and TRACEROUTE commands
+5. Create a socket for HTTP for web page upload and download.
+6. Write a program to implement RPC (Remote Procedure Call)
+7. Implementation of Subnetting .
+8. Applications using TCP Sockets like
+a. Echo client and echo server b. Chat c. File Transfer
+9. Applications using TCP and UDP Sockets like d. DNS e. SNMP f. File Transfer
+10. Study of Network simulator (NS).and Simulation of Congestion Control Algorithms using NS
+11. Perform a case study about the different routing algorithms to select the network path with its optimum and
+economical during data transfer. i. Link State routing ii. Flooding iii. Distance vector
+12. To learn handling and configuration of networking hardware like RJ-45 connector, CAT-6 cable, crimping tool, etc.
+13. Configuration of router, hub, switch etc. (using real devices or simulators)
+14. Running and using services/commands like ping, traceroute, nslookup, arp, telnet, ftp, etc.
+15.Network packet analysis using tools like Wireshark, tcpdump, etc.
+16. Network simulation using tools like Cisco Packet Tracer, NetSim, OMNeT++, NS2, NS3, etc.
+17.Socket programming using UDP and TCP (e.g., simple DNS, data & time client/server, echo client/server, iterative &
+concurrent servers)
